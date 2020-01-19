@@ -1,0 +1,35 @@
+body{
+
+background-color: #d2d4d6;
+
+margin: 0;
+}
+div{
+    color: #fff;
+    width: 1000px;
+    background-color: #db6efe;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 50px;
+    box-shadow: inset 0px 0px 18px 5px;
+}
+h1{
+    margin: 0;
+    font-size: 50px;
+    color: seagreen;
+
+}
+p{
+    margin: 0;
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: justify;
+}
+span{
+	color: #640def;
+	text-transform: unset;
+}
+b{
+	font-size: 90px;
+}
